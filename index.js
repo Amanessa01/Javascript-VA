@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conditional Loops</title>
+</head>
+
+<body>
+  
+
+  <script src="script.js"></script>
+
+</body>
+</html>
+-------------------------------------------------------
+Psudeocode
 //*psedocode for rock paper scissors activity*//
 
 If rock competes with scissors, rock will win
@@ -8,3 +26,14 @@ If scissors competes with scissors, players will draw
 If paper competes with paper, players will draw
 
 //* The above translated into code*//
+
+
+I want to play Rock, Paper, Scissors against an automated opponent.
+I can enter R, P, or S to signify my choice of rock, paper, or scissors.
+I expect the computer to choose R, P, or S in return.
+I want the option to play again whether I win or lose.
+I want to see my total wins, ties, and losses after 10 rounds.
+
+
+
+The computer's selection must be random to ensure a fair game
